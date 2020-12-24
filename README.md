@@ -2,6 +2,10 @@
 
 <br><br><br>
 
+# Dataset for training
+- https://drive.google.com/file/d/10SGv_kbYhVLIC2hLlz2GBkHGAo0nec-3/view?usp=sharing
+- vgg19_no_fc.npy: https://drive.google.com/open?id=1JfJzJbNjAWBIHGm9mc_R9dXv7DAw3tZc
+
 # [CVPR2020]Learning to Cartoonize Using White-box Cartoon Representations
 [project page](https://systemerrorwang.github.io/White-box-Cartoonization/) |   [paper](https://github.com/SystemErrorWang/White-box-Cartoonization/blob/master/paper/06791.pdf) |   [twitter](https://twitter.com/IlIIlIIIllIllII/status/1243108510423896065) |   [zhihu](https://zhuanlan.zhihu.com/p/117422157) |   [bilibili](https://www.bilibili.com/video/av56708333) |  [facial model](https://github.com/SystemErrorWang/FacialCartoonization)
 
