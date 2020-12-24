@@ -2,8 +2,9 @@
 
 <br><br><br>
 
-# Dataset for training
-- https://drive.google.com/file/d/10SGv_kbYhVLIC2hLlz2GBkHGAo0nec-3/view?usp=sharing
+# Add by Chigo
+- tensorflow=1.12.0/1.13.0, scikit-image==0.14.5 and joblib==0.13.0
+- Dataset for training: https://drive.google.com/file/d/10SGv_kbYhVLIC2hLlz2GBkHGAo0nec-3/view?usp=sharing
 - vgg19_no_fc.npy: https://drive.google.com/open?id=1JfJzJbNjAWBIHGm9mc_R9dXv7DAw3tZc
 
 # [CVPR2020]Learning to Cartoonize Using White-box Cartoon Representations
